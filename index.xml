@@ -1433,4 +1433,97 @@ lastRow : "nojustify",
 captions : false,
 });
 });
-&lt;/script></description></item><item><title/><link>https://ha.tvzofingen.ch/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ha.tvzofingen.ch/admin/config.yml</guid><description/></item><item><title/><link>https://ha.tvzofingen.ch/halle/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ha.tvzofingen.ch/halle/</guid><description/></item><item><title/><link>https://ha.tvzofingen.ch/kontakt/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ha.tvzofingen.ch/kontakt/</guid><description/></item><item><title/><link>https://ha.tvzofingen.ch/news/_global/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ha.tvzofingen.ch/news/_global/</guid><description/></item><item><title/><link>https://ha.tvzofingen.ch/news/_index/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ha.tvzofingen.ch/news/_index/</guid><description/></item><item><title/><link>https://ha.tvzofingen.ch/teams/_global/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ha.tvzofingen.ch/teams/_global/</guid><description/></item><item><title/><link>https://ha.tvzofingen.ch/teams/animationu7u11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ha.tvzofingen.ch/teams/animationu7u11/</guid><description/></item><item><title/><link>https://ha.tvzofingen.ch/teams/grossfeld/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ha.tvzofingen.ch/teams/grossfeld/</guid><description/></item><item><title/><link>https://ha.tvzofingen.ch/teams/h1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ha.tvzofingen.ch/teams/h1/</guid><description/></item><item><title/><link>https://ha.tvzofingen.ch/teams/u13/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ha.tvzofingen.ch/teams/u13/</guid><description/></item><item><title/><link>https://ha.tvzofingen.ch/teams/u15/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ha.tvzofingen.ch/teams/u15/</guid><description/></item><item><title/><link>https://ha.tvzofingen.ch/teams/u17/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ha.tvzofingen.ch/teams/u17/</guid><description/></item></channel></rss>
+&lt;/script></description></item><item><title/><link>https://ha.tvzofingen.ch/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ha.tvzofingen.ch/admin/config.yml</guid><description/></item><item><title/><link>https://ha.tvzofingen.ch/halle/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ha.tvzofingen.ch/halle/</guid><description/></item><item><title/><link>https://ha.tvzofingen.ch/kontakt/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ha.tvzofingen.ch/kontakt/</guid><description/></item><item><title/><link>https://ha.tvzofingen.ch/news/_global/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ha.tvzofingen.ch/news/_global/</guid><description/></item><item><title/><link>https://ha.tvzofingen.ch/news/_index/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ha.tvzofingen.ch/news/_index/</guid><description/></item><item><title>Animation Saison 2022/23</title><link>https://ha.tvzofingen.ch/teams/animationu7u11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ha.tvzofingen.ch/teams/animationu7u11/</guid><description/></item><item><title>Das sind unsere Teams in der Saison 2022/23</title><link>https://ha.tvzofingen.ch/teams/portfolio/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ha.tvzofingen.ch/teams/portfolio/</guid><description/></item><item><title>Grossfeld</title><link>https://ha.tvzofingen.ch/teams/grossfeld/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ha.tvzofingen.ch/teams/grossfeld/</guid><description>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Jahr&lt;/th>
+&lt;th style="text-align:right">Platzierung&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>2022&lt;/td>
+&lt;td style="text-align:right">2. Rang&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2018&lt;/td>
+&lt;td style="text-align:right">1. Rang&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2017&lt;/td>
+&lt;td style="text-align:right">1. Rang&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2016&lt;/td>
+&lt;td style="text-align:right">keine Teilnahme&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2015&lt;/td>
+&lt;td style="text-align:right">keine Teilnahme&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2014&lt;/td>
+&lt;td style="text-align:right">4. Rang&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2013&lt;/td>
+&lt;td style="text-align:right">1. Rang&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2012&lt;/td>
+&lt;td style="text-align:right">1. Rang&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2011&lt;/td>
+&lt;td style="text-align:right">Out im Quali-Turnier&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2010&lt;/td>
+&lt;td style="text-align:right">2. Rang&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2009&lt;/td>
+&lt;td style="text-align:right">3. Rang&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2007&lt;/td>
+&lt;td style="text-align:right">Out im Halbfinal&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2006&lt;/td>
+&lt;td style="text-align:right">3. Rang&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2004&lt;/td>
+&lt;td style="text-align:right">2. Rang&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>1995&lt;/td>
+&lt;td style="text-align:right">1. Rang&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>1992&lt;/td>
+&lt;td style="text-align:right">1. Rang&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>1987&lt;/td>
+&lt;td style="text-align:right">2. Rang&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>1986&lt;/td>
+&lt;td style="text-align:right">1. Rang&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>1984&lt;/td>
+&lt;td style="text-align:right">1. Rang&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>1982&lt;/td>
+&lt;td style="text-align:right">2. Rang&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>1981&lt;/td>
+&lt;td style="text-align:right">2. Rang&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>H1 Saison 2022/23</title><link>https://ha.tvzofingen.ch/teams/h1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ha.tvzofingen.ch/teams/h1/</guid><description/></item><item><title>U13 Saison 2022/23</title><link>https://ha.tvzofingen.ch/teams/u13/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ha.tvzofingen.ch/teams/u13/</guid><description/></item><item><title>U15 Saison 2022/23</title><link>https://ha.tvzofingen.ch/teams/u15/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ha.tvzofingen.ch/teams/u15/</guid><description/></item><item><title>U17 Saison 2022/23</title><link>https://ha.tvzofingen.ch/teams/u17/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ha.tvzofingen.ch/teams/u17/</guid><description/></item></channel></rss>
