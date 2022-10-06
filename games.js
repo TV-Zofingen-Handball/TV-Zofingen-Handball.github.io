@@ -46,7 +46,9 @@ async function getGames() {
                        <td>${opponent}</td>
                        <td>${game.venue}</td>
                        `;
-        gamesTable.appendChild(tr);
+        if (game.leagueShort !== 'M3') {
+          gamesTable.appendChild(tr);          
+        }
       });
     }
   } else {

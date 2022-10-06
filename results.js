@@ -47,7 +47,9 @@ async function getResults() {
                        <td>${opponent}</td>
                        <td style="white-space:nowrap;">${resultDisplay}</td>
                        `;
-        resultTable.appendChild(tr);
+        if (result.leagueShort !== 'M3') {
+          resultTable.appendChild(tr);          
+        }
       });
     }
   } else {
