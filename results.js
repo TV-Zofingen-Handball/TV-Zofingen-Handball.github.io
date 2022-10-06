@@ -39,9 +39,9 @@ async function getResults() {
         let opponent = getOpponent(result);
         let resultDisplay = getFormattedResult(result);
         tr.innerHTML = `<td>${dateMonth}</td>
-                       <td class="is-hidden-mobile">${result.leagueShort}</td>
+                       <td>${result.leagueShort}</td>
                        <td>${opponent}</td>
-                       <td>${resultDisplay}</td>
+                       <td style="white-space:nowrap;">${resultDisplay}</td>
                        `;
         resultTable.appendChild(tr);
       });

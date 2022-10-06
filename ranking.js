@@ -46,10 +46,10 @@ async function getRanking() {
         tr.innerHTML = `<td>${ranking.rank}</td>
                        <td>${ranking.teamName}</td>
                        <td>${ranking.totalPoints}</td>
-                       <td>${ranking.totalGames} (${ranking.totalWins} ${ranking.totalDraws} ${ranking.totalLoss})</td>
-                       <td>${ranking.totalScoresDiff} (${ranking.totalScoresPlus}:${ranking.totalScoresMinus})</td>
-                       <td class="is-hidden-mobile">${pointspG}</td>
-                       <td class="is-hidden-mobile">${diffpG} (${pluspG}:${minuspG})</td>
+                       <td style="white-space:nowrap;">${ranking.totalGames} (${ranking.totalWins} ${ranking.totalDraws} ${ranking.totalLoss})</td>
+                       <td style="white-space:nowrap;">${ranking.totalScoresDiff} (${ranking.totalScoresPlus}:${ranking.totalScoresMinus})</td>
+                       <td>${pointspG}</td>
+                       <td style="white-space:nowrap;">${diffpG} (${pluspG}:${minuspG})</td>
                        `;
         rankingTable.appendChild(tr);
       });
