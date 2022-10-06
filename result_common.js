@@ -56,6 +56,11 @@ function getSHVid() {
   return shv_id.getAttribute('data-value');
 }
 
+function isVerein() {
+  let verein = document.getElementById('is_verein');
+  return verein.getAttribute('data-value');
+}
+
 function isZofingen(team) {
   return team.includes('Zofingen');
 }

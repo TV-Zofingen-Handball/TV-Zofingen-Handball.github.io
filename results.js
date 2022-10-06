@@ -19,7 +19,11 @@ async function getResults() {
   resultsButton.classList.add('is-loading');
   resultRequestOptions.method = 'GET';
   let shv_id = getSHVid();
-  const response = await fetch(resultBaseLink + '/teams/' + shv_id + '/games?status=played', resultRequestOptions);
+  let url = resultBaseLink + '/teams/' + shv_id + '/games?status=played';
+  if (isVerein()) {
+    url = resultBaseLink + '/clubs/' + shv_id + '/games?status=played&order=desc&limit=10';
+  }
+  const response = await fetch(url, resultRequestOptions);
   if (response.status === 200) {
     const data = await response.json();
     const results = data;
@@ -52,3 +56,6 @@ async function getResults() {
 };
 
 resultsButton.addEventListener("click", getResults);
+if (isVerein()) {
+  getResults();
+}

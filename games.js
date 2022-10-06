@@ -19,7 +19,11 @@ async function getGames() {
   gamesButton.classList.add('is-loading');
   gamesRequestOptions.method = 'GET';
   let shv_id = getSHVid();
-  const response = await fetch(gamesBaseLink + '/teams/' + shv_id + '/games?status=planned', gamesRequestOptions);
+  let url = gamesBaseLink + '/teams/' + shv_id + '/games?status=planned';
+  if (isVerein()) {
+    url = gamesBaseLink + '/clubs/' + shv_id + '/games?status=planned&limit=10';
+  }
+  const response = await fetch(url, gamesRequestOptions);
   if (response.status === 200) {
     const data = await response.json();
     const games = data;
