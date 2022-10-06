@@ -48,8 +48,8 @@ async function getRanking() {
                        <td>${ranking.totalPoints}</td>
                        <td>${ranking.totalGames} (${ranking.totalWins} ${ranking.totalDraws} ${ranking.totalLoss})</td>
                        <td>${ranking.totalScoresDiff} (${ranking.totalScoresPlus}:${ranking.totalScoresMinus})</td>
-                       <td>${pointspG}</td>
-                       <td>${diffpG} (${pluspG}:${minuspG})</td>
+                       <td class="is-hidden-mobile">${pointspG}</td>
+                       <td class="is-hidden-mobile">${diffpG} (${pluspG}:${minuspG})</td>
                        `;
         rankingTable.appendChild(tr);
       });

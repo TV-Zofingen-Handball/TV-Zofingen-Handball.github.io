@@ -38,7 +38,7 @@ async function getGames() {
         let opponent = getOpponent(game);
         let dateMonth = getDateTime(getDate(game.gameDateTime));
         tr.innerHTML = `<td>${dateMonth}</td>
-                       <td>${game.leagueShort}</td>
+                       <td class="is-hidden-mobile">${game.leagueShort}</td>
                        <td>${opponent}</td>
                        <td>${game.venue}</td>
                        `;

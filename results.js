@@ -39,7 +39,7 @@ async function getResults() {
         let opponent = getOpponent(result);
         let resultDisplay = getFormattedResult(result);
         tr.innerHTML = `<td>${dateMonth}</td>
-                       <td>${result.leagueShort}</td>
+                       <td class="is-hidden-mobile">${result.leagueShort}</td>
                        <td>${opponent}</td>
                        <td>${resultDisplay}</td>
                        `;
