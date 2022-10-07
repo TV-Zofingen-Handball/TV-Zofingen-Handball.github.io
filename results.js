@@ -48,7 +48,7 @@ async function getResults() {
                        <td style="white-space:nowrap;">${resultDisplay}</td>
                        `;
         if (result.leagueShort !== 'M3') {
-          resultTable.appendChild(tr);          
+          resultTable.appendChild(tr);
         }
       });
     }
