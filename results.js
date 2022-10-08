@@ -46,6 +46,7 @@ async function getResults() {
                        <td>${result.leagueShort}</td>
                        <td>${opponent}</td>
                        <td style="white-space:nowrap;">${resultDisplay}</td>
+                       <td>${result.spectators}</td>
                        `;
         if (result.leagueShort !== 'M3') {
           resultTable.appendChild(tr);
