@@ -21,7 +21,7 @@ async function getResults() {
   let shv_id = getSHVid();
   let url = resultBaseLink + '/teams/' + shv_id + '/games?status=played';
   if (isVerein()) {
-    url = resultBaseLink + '/clubs/' + shv_id + '/games?status=played&order=desc&limit=10';
+    url = resultBaseLink + '/clubs/' + shv_id + '/games?status=played&order=desc&limit=7';
   }
   const response = await fetch(url, resultRequestOptions);
   if (response.status === 200) {

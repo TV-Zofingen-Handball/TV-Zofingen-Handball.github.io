@@ -21,7 +21,7 @@ async function getGames() {
   let shv_id = getSHVid();
   let url = gamesBaseLink + '/teams/' + shv_id + '/games?status=planned';
   if (isVerein()) {
-    url = gamesBaseLink + '/clubs/' + shv_id + '/games?status=planned&limit=10';
+    url = gamesBaseLink + '/clubs/' + shv_id + '/games?status=planned&limit=7';
   }
   const response = await fetch(url, gamesRequestOptions);
   if (response.status === 200) {
@@ -47,7 +47,7 @@ async function getGames() {
                        <td>${game.venue}</td>
                        `;
         if (game.leagueShort !== 'M3') {
-          gamesTable.appendChild(tr);          
+          gamesTable.appendChild(tr);
         }
       });
     }
