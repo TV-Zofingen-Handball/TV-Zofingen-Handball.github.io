@@ -43,7 +43,7 @@ async function getResults() {
         let opponent = getOpponent(result);
         let resultDisplay = getFormattedResult(result);
         tr.innerHTML = `<td>${dateMonth}</td>
-                       <td>${result.leagueShort}</td>
+                       <td><a href="/gamelog/${result.gameId}">${result.leagueShort}</a></td>
                        <td>${opponent}</td>
                        <td style="white-space:nowrap;">${resultDisplay}</td>
                        <td>${result.spectators}</td>
